@@ -22,7 +22,7 @@ Covers basics to intermediate OOP, data structures, and Java fundamentals.
 | --- | --- |
 | [Simple Calculator](01_cal/README.md) | Use Scanner for input. Support +, -, *, / in a loop. Ask for numbers and operator, show result, repeat until user quits. |
 | [Number Guessing Game](02_number-guessing/README.md) | Generate random number (1-100). Loop: read user guess, give "too high/low" hints. Count attempts. End when guessed correctly. |
-| To-Do List Manager | Use ArrayList<String> for tasks. Menu: add task, list tasks, remove task, save to file, load from file. Use basic file I/O. |
+| [To-Do List Manager](03_todo-man/README.md) | Use ArrayList<String> for tasks. Menu: add task, list tasks, remove task, save to file, load from file. Use basic file I/O. |
 | Basic Banking System | Create Account class with balance. Methods: deposit, withdraw, show balance. Use ArrayList<Account> to manage multiple accounts. |
 | Student Grade Tracker | Create Student class (name, list of grades). Methods: add grade, calculate average, show grades. Use ArrayList<Student> for all students. |
 | Library Book Manager | Create Book class (title, author, year, isBorrowed). Use ArrayList<Book>. Menu: add book, list all books, borrow book, return book, search by title/author. |
